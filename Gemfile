@@ -26,6 +26,9 @@ gem 'masonry-rails'
 
 gem 'jquery-turbolinks'
 
+gem 'will_paginate', '~>3.0'
+gem 'will_paginate-bootstrap'
+
 gem 'sass-rails', '~> 4.0.0'
 
 gem 'uglifier', '>= 1.3.0'
